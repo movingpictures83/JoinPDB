@@ -1,0 +1,2 @@
+Prefix plugins/JoinPDB/example/
+Plugin JoinPDB inputfile parameters.join.txt outputfile 3.pdb

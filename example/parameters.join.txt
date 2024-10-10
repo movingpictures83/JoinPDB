@@ -1,0 +1,2 @@
+pdb1	1.pdb
+pdb2	2.pdb
